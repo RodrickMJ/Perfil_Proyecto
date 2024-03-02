@@ -1,0 +1,10 @@
+.cont-userp{
+    background-color: rgba(243, 243, 243, 1);
+    width: 826px;
+    height: 490px;
+}
+
+.imgs-perfil{
+    display: flex;
+    flex-direction: column;
+}
